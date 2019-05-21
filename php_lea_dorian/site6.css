@@ -1,0 +1,49 @@
+body{
+
+	background-image:url(image_site.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin:0 auto;
+	height: 600px;
+	background-attachment: fixed;
+}
+
+h1{
+	margin-left: 35%;
+	margin-top: 5%;
+}
+
+.phprecette{
+	margin-top: 2%;
+	margin-left: 0%;
+}
+
+table {
+border: medium solid #6495ed;
+border-collapse: collapse;
+width: 100%;
+}
+th {
+font-family: monospace;
+border: thin solid #6495ed;
+width: 100%;
+padding: 5px;
+background-color: #D0E3FA;
+background-image: url(sky.jpg);
+}
+td {
+font-family: sans-serif;
+border: thin solid #6495ed;
+width: 100%;
+padding: 5px;
+text-align: center;
+background-color: #ffffff;
+}
+caption {
+font-family: sans-serif;
+}
+
+.Rechercher1{
+	margin-left:75%;
+	margin-top:-15%;
+}

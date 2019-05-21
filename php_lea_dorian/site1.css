@@ -1,0 +1,25 @@
+form {
+	position:absolute;
+	width:280px;
+	height:50%;
+	margin-left:35%;
+	margin-top:1.5%;
+	background:transparent;
+	color:white;
+	font-weight: bold;
+
+}
+h1{
+	text-align: center;
+	color:white;
+	margin-top:17%;
+}
+body{
+
+	background-image:url(image_site.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin:0 auto;
+	height: 600px;
+	background-attachment: fixed;
+}

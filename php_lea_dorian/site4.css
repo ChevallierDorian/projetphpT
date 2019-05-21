@@ -1,0 +1,29 @@
+form{
+	position:absolute;
+	width:400px;
+	height:150%;
+	margin-left:37%;
+	margin-top:1%;
+	background:transparent;
+	color:black;
+	font-weight: bold;
+	text-align:left;
+}
+h1{
+	text-align: center;
+	color:black;
+	margin-top:8%;
+}
+body{
+	background-image: url(vert.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin:0 auto;
+	height: 600px;
+	background-attachment: fixed;
+}
+textarea{
+	width: 90%;
+	height: 10%;
+	margin-left: 0%;
+}
